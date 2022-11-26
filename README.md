@@ -1,1 +1,1 @@
-![](figure.pdf)
+![](figure.png)
